@@ -9,7 +9,7 @@ ahead, and starts ventilation *before* the danger threshold is crossed.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/notebooks/PoultryGuard_ML_Prototype.ipynb)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-ESP32-green)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 
 ---
 
@@ -207,6 +207,3 @@ Stated plainly, because they matter:
 
 Guhan Karthikeyan · Dhivya Shri · Yadhisresht Harikrishnan
 
-## License
-
-MIT
